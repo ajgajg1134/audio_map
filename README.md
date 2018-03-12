@@ -1,7 +1,7 @@
 # audio_map
 play audio files in a directory based on key values from a json file
 
-#To run
+# To run
 1. install pygame `pip install pygame`
 2. using python2 (check with `python --version`)
 3. fill your `data.json` file with your keys and files following the example
